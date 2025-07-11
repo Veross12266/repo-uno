@@ -1,0 +1,27 @@
+---- GIT
+
+ ---inicializar git
+ git init
+
+----- se agrega archivo a stage
+ git add archivo   
+---- commit
+ git commit -m "comentario del cambio"
+----- muestra la rama
+ git branch
+---- crea y nos posiciona dentro
+ git switch -c  cambio-funcion  -- se modifica
+ git commit -m "Funcion optimizada
+----- muestra estatus de ramas
+git log -- online
+---- cambio de rama
+git switch nom_rama
+-- 
+git merge  rama_princial rama_secundaria
+
+
+---------git
+veross12266/ Roroz033
+
+
+
